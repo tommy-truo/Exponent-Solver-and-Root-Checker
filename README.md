@@ -1,2 +1,2 @@
 # Exponent Solver and Root Checker
- Python program that can simplify an exponent as well as check to see if a number is a perfect root of any index.
+ A python program that can both simplify a number with any exponent, as well as check if a number is a perfect root of any index.
